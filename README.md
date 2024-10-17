@@ -171,14 +171,14 @@ BOX <br>
 A <br>
 IT <br>
 TOAD <br>
-
+<code>
 Sample Output :  <br>
 SQUARE <br>
 Q    R <br>
 U    A <br>
 A    U <br>
 R    Q <br>
-ERAUQS <br>
+ERAUQS <br></p>
 
 BOX <br>
 O O <br>
@@ -195,7 +195,7 @@ O  A  <br>
 A  O  <br>
 DAOT  <br>
 
-
+</code>
 
 
 # Assignment 7
