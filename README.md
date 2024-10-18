@@ -69,6 +69,7 @@ Sample Data : <br>
 1 R<br>
 5 T<br>
 4 W<br>
+<code>
 Sample Output : <br>
   A <br>
  AA <br>
@@ -97,7 +98,7 @@ TTTTT<br>
   WW<br>
  WWW<br>
 WWWW<br>
-
+</code>
 # Assignment 4
 ### Lab Description :   Use nested loops to print out the triangle letter pattern show below.
 
